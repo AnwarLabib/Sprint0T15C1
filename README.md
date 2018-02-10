@@ -7,3 +7,4 @@ Anwar Labib -> Lives to code
 This repository is created in order to learn the basics of GitHub and to use its terminal becasuse nowadays almost all developers use GitHub.
 ## Authors
 * **Anwar Labib** - ID: 37-4549
+* **Fady Sameh** - ID: 37-2062
