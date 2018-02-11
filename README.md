@@ -1,4 +1,4 @@
-# Sprint0
+# sprint0
 Learning the basics of GitHub.
 ## Getting Started
 This is the repository for Sprint0 of Team C1 in tutorial 15 and it contains many examples of basics of GitHub.
