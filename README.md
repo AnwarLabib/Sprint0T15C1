@@ -10,9 +10,12 @@ Fady Sameh -> Loves Football
 
 Zeyad Zaky -> ☕, 💻, 💤,  🔁
 
+Doaa Samer -> Loves food 
+
 ## About
 This repository is created in order to learn the basics of GitHub and to use its terminal becasuse nowadays almost all developers use GitHub.
 ## Authors
 * **Anwar Labib** - ID: 37-4549
 * **Fady Sameh** - ID: 37-2062
 * **Zeyad Zaky** - ID: 37-0521
+* **Doaa Samer** - ID: 37-3611
