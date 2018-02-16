@@ -21,7 +21,4 @@ This repository is created in order to learn the basics of GitHub and to use its
 * **Fady Sameh** - ID: 37-2062
 * **Zeyad Zaky** - ID: 37-0521
 * **Doaa Samer** - ID: 37-3611
- **Badr mahmoud** - ID: 37-11081
-try to conflict with myself
-
-try to conflict with myself
+* **Badr mahmoud** - ID: 37-11081
